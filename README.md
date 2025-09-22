@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shreya!
+# Hi, Shreya here :)
 
 I'm a software developer passionate about building innovative tech solutions and sharing my knowledge with others. Currently working on building innovative solutions by integrating AI. 
 
