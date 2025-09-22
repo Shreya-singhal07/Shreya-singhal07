@@ -25,6 +25,7 @@ I am looking for opportunities to further develop my skills and experience and t
 
 ## LinkedIn:
 <img width="748" height="389" alt="image" src="https://github.com/user-attachments/assets/6944199f-beb4-4bf0-b7b9-8d8f4730d458" />
+
 - I share tech insights, career tips, and actionable advice on LinkedIn and my personal blog. 
 
 ## 💌 Let's collaborate and build something amazing together!
