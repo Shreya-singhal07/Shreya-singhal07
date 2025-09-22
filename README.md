@@ -18,7 +18,7 @@ I am looking for opportunities to further develop my skills and experience and t
 - **Heart Disease Prediction System** - Flask API for healthcare data
 - **Traffic Simulation** - Using OpenGL for real-time traffic flow analysis
 
-## 📣 Connect with Me:
+## drop a dm:
 - [LinkedIn](https://www.linkedin.com/in/shreyasinghal0701/)
 - [GitHub](https://github.com/shreyasinghal0701)
 
