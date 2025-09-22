@@ -1,8 +1,10 @@
 # Hi, Shreya here :)
 
-I’m a Software Developer focused on building innovative solutions by integrating AI.  I contributed to the design and development of web-based applications and features for Adobe products, using Python and Neural Network architectures. I collaborated with cross-functional teams to deliver high-quality, user-friendly features while adhering to agile practices. Passionate about learning new technologies and solving real-world challenges.
+A Software Developer focused on building innovative solutions by integrating AI.  
 
-I am passionate about learning new technologies and applying them to solve real-world problems. 
+- contributed to the design and development of web-based applications and features for Adobe products, using Python and Neural Network architectures.
+- collaborated with cross-functional teams to deliver high-quality, user-friendly features while adhering to agile practices.
+- passionate about learning new technologies and solving real-world challenges.
 
 I am looking for opportunities to further develop my skills and experience and to join a team that values innovation, creativity, and collaboration.
 
@@ -26,4 +28,4 @@ I am looking for opportunities to further develop my skills and experience and t
 
 - I share tech insights, career tips, and actionable advice on LinkedIn and my personal blog. 
 
-## 💌 Let's collaborate and build something amazing together!
+💌 Let's collaborate and build something amazing together!
