@@ -16,7 +16,7 @@ I am looking for opportunities to further develop my skills and experience and t
 ## Current Projects:
 - **Real-time Chat App** - Built with MERN Stack and JWT Authentication
 - **Heart Disease Prediction System** - Flask API for healthcare data
-- **Traffic Simulation** - Using OpenGL for real-time traffic flow analysis
+- **LRU Cache** - Demonstrating caching algorithms
 
 ## LinkedIn:
 <img width="748" height="389" alt="image" src="https://github.com/user-attachments/assets/6944199f-beb4-4bf0-b7b9-8d8f4730d458" />
