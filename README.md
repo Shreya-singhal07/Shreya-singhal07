@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Shreya!
 
-I'm a software developer passionate about building innovative tech solutions and sharing my knowledge with others. Currently, I'm working on a **real-time chat app (MERN)**, an **OpenGL traffic simulation**, and a **Heart Disease Prediction System** using Flask.
+I'm a software developer passionate about building innovative tech solutions and sharing my knowledge with others. Currently working on building innovative solutions by integrating AI.
 
 ## 🚀 Technologies I Work With:
-- **Languages:** JavaScript (React, Node.js), Python (Flask), C++
-- **Tools & Frameworks:** MongoDB, OpenGL, Socket.IO
+- **Languages:** Python, C/C++, PostgreSQL, MySQL, JavaScript, HTML/CSS
+- **Tools & Frameworks:** MongoDB, OpenGL, Socket.IO, Docker, Django, Pandas, NumPy, Tensorflow, Scikit-Learn
 - **DevOps:** Docker, GitHub Actions
 
 ## 📈 GitHub Stats:
@@ -18,7 +18,7 @@ I'm a software developer passionate about building innovative tech solutions and
 ## 📣 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/shreyasinghal0701/)
 - [GitHub](https://github.com/shreyasinghal0701)
-- [Twitter](https://twitter.com/)
+
 
 ## 📚 Blog / Content Creation:
 - I share tech insights, career tips, and actionable advice on LinkedIn and my personal blog. 
