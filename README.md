@@ -14,7 +14,8 @@ I am looking for opportunities to further develop my skills and experience and t
 - **DevOps:** Docker, GitHub Actions
 
 ## 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyasinghal0701&show_icons=true&hide_title=true)
+![GitHub Stats](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreya-singhal07&show_icons=true&hide_title=true)
+)
 
 ## 🔥 Current Projects:
 - **Real-time Chat App** - Built with MERN Stack and JWT Authentication
